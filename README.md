@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy exploring new technologies and developing software.  
-🎓 &nbsp;I'm currently studying Multiplatform Application Development (DAM).  
-🌱 &nbsp;I'm learning the basisc rn.  
+💡 &nbsp;I enjoy exploring new technologies and building software.  
+🎓 &nbsp;Currently studying Multiplatform Application Development (DAM).  
+🌱 &nbsp;Learning the basisc and improving my coding skills.  
 ✍️ &nbsp;In my free time, I like coding, optimizing my workflow, and learning new things.  
 💬 &nbsp;Feel free to reach out if you want to talk about tech, share ideas, or just have an interesting chat.    
-🐈‍⬛ &nbsp;I love black cats—they're the true rulers of the night.  
+🐈‍⬛ &nbsp;Black cats are the true rulers of the night.  
 
 
 <img alt="Cat Coding" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" align="right"/>
